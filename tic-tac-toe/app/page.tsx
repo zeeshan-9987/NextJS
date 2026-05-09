@@ -37,7 +37,7 @@ export default function Home() {
       <p
   className="
     fixed
-    bottom-16
+    bottom-4
     left-4
     text-sm
     text-slate-400
