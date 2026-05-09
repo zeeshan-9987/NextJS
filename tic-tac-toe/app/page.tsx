@@ -34,9 +34,17 @@ export default function Home() {
 
       <Board />
 
-      <p className="mt-10 text-sm text-slate-400">
-        Built with ❤️ by YOUR_NAME
-      </p>
+      <p
+  className="
+    fixed
+    bottom-16
+    left-4
+    text-sm
+    text-slate-400
+  "
+>
+  Built by Zeeshan Ansari 🚀
+</p>
     </main>
   );
 }
