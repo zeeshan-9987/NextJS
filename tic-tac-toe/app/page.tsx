@@ -33,6 +33,10 @@ export default function Home() {
       </div>
 
       <Board />
+
+      <p className="mt-10 text-sm text-slate-400">
+        Built with ❤️ by YOUR_NAME
+      </p>
     </main>
   );
 }
